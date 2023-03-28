@@ -1,0 +1,8 @@
+version: 0.0.2
+files:
+  - url: InfinityBots-Setup.exe
+    sha512: ZJF5wynigVI2ucTqAe81hZmYWIxeKW2W5tYUGSJOaOD94ZdHUavxj5cRvAyIOCIC//xH0TsL5wo812i9lX4y1w==
+    size: 88848256
+path: InfinityBots-Setup.exe
+sha512: ZJF5wynigVI2ucTqAe81hZmYWIxeKW2W5tYUGSJOaOD94ZdHUavxj5cRvAyIOCIC//xH0TsL5wo812i9lX4y1w==
+releaseDate: '2023-03-28T00:07:08.379Z'

@@ -1,0 +1,13 @@
+directories:
+  output: dist
+  buildResources: build
+asar: false
+appId: com.infinitybots.app
+productName: Infinity Bot List
+icon: ./electron-src/logo.png
+artifactName: InfinityBots-Setup.exe
+files:
+  - filter:
+      - electron-build
+      - out
+electronVersion: 20.0.1
